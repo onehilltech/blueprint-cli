@@ -2,12 +2,14 @@
 
 simple command-line interface for managing Blueprint.js applications
 
-## Getting Started
+## Installation
 
 Install the command-line interface globally on your machine:
 
     npm install -g @onehilltech/blueprint-cli
-    
+  
+## Getting Started
+
 Create a new application:
 
     blueprint new --name name-of-app [other options]
