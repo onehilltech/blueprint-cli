@@ -1,6 +1,7 @@
 # blueprint-cli
 
-simple command-line interface for managing Blueprint.js applications
+command-line interface for managing [Blueprint.js](https://github.com/onehilltech/blueprint)
+applications
 
 ## Installation
 
