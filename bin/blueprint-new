@@ -53,7 +53,7 @@ async.waterfall ([
     // this view of the system.
     var view = {
       project : {
-        name: program.name,
+        name: name,
         version: program.version,
         license: program.license
       }
