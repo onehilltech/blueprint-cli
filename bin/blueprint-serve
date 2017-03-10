@@ -1,8 +1,0 @@
-'use strict';
-
-var exec = require ('child_process').exec;
-var cmd  = 'babel app -d dist';
-
-exec (cmd, function (error, stdout, stderr) {
-  // command output is in stdout
-});

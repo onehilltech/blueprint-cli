@@ -7,7 +7,6 @@ var program = require ('commander')
   ;
 
 var commands = {
-  build: 'build the application',
   controller: 'manage application controllers',
   model: 'manage application models',
   module: 'module support',
