@@ -18,7 +18,8 @@
     "npm": "^3.10.7",
     "winston": "^2.2.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+  },
   "license": "Apache-2.0",
   "engines": {
     "node": ">=4.0.0",

@@ -79,7 +79,8 @@ function generateApplication (name) {
             'chai',
             'mocha',
             'superagent',
-            'supertest'
+            'supertest',
+            'babel-cli'
           ];
 
           Installer (dstPath, {'save-dev': true}, function (err, devInstaller) {
