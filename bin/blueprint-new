@@ -36,6 +36,8 @@ function generateApplication (name) {
     },
 
     function (made, callback) {
+      console.log ('Generating Blueprint.js application; please be patient...');
+
       // Define the view used to render the templates, then render the templates with
       // this view of the system.
       var view = {
