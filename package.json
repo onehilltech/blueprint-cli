@@ -1,7 +1,7 @@
 {
   "name": "@onehilltech/blueprint-cli",
   "description": "command-line interface for Blueprint.js",
-  "version": "0.7.1",
+  "version": "0.8.0",
   "private": false,
   "author": "One Hill Technologies, LLC",
   "scripts": {
@@ -18,8 +18,7 @@
     "npm": "^3.10.7",
     "winston": "^2.2.0"
   },
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "license": "Apache-2.0",
   "engines": {
     "node": ">=4.0.0",
