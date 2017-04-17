@@ -72,7 +72,7 @@ function generateApplication (name) {
       ];
 
       async.eachSeries (commands, function (command, callback) {
-        execFile ('npm', command, callback);
+        execFile ('npm', command, {cwd: dstPath}, callback);
       }, callback);
     }
   ], onComplete);
