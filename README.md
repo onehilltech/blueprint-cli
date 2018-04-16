@@ -1,5 +1,7 @@
 # blueprint-cli
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/onehilltech/blueprint-cli.svg)](https://greenkeeper.io/)
+
 command-line interface for managing [Blueprint.js](https://github.com/onehilltech/blueprint)
 applications
 
